@@ -15,8 +15,6 @@ Para eso agarramos una base de datos de más de XXXX imágenes etiquetadas como 
 ## Librerías
 """
 
-!pip install keras-visualizer
-
 import tensorflow as tf
 import tensorflow.keras as keras
 from tensorflow.keras.utils import image_dataset_from_directory
